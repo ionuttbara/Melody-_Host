@@ -63,11 +63,19 @@ The _settings_ are **updated** (at a random time), so make sure you **come back*
 | Blocks pop-ups                |         ✔️         |        〰️       |
 | Blocks trackers               |         ✔️         |        〰️       |
 | Blocks annoyances             |         ✔️         |        〰️       |
+| Blocks fake-news            |         ✔️         |        〰️       |
+| Blocks cookies dialogs           |         ✔️         |        〰️       |
+| Blocks Romanian (Russian presses), RomaniaTV or Antena3 are examples            |         ✔️         |        〰️       |
 | Blocks malware                |         ✔️         |        〰️       |
 | Blocks coin miners            |         ✔️         |        ❌        |
 | Blocks +18                    |         ✔️         |        ❌        |
 | Has only useful filters       |         ✔️         |        ❌        |
 | Has only recent filters       |         ✔️         |        ❌        |
+| Blocks Rick&Roll links        |         ✔️         |        ❌        |
+| Optimizes Youtube Recommandations       |         ✔️         |        ❌        |
+| Optimizes Reddit Recommandations       |         ✔️         |        ❌        |
+| Optimizes Twitch Recommandations       |         ✔️         |        ❌        |
+| Blocks analytics and metrics          |         ✔️         |        〰️       |
 
 ## Sources
 
