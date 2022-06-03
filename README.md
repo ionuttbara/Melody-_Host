@@ -65,7 +65,7 @@ The _settings_ are **updated** (at a random time), so make sure you **come back*
 | Blocks annoyances             |         ✔️         |        〰️       |
 | Blocks fake-news            |         ✔️         |        〰️       |
 | Blocks cookies dialogs           |         ✔️         |        〰️       |
-| Blocks Romanian (Russian presses), RomaniaTV or Antena3 are examples            |         ✔️         |        〰️       |
+| Blocks Romanian (pro-Russian Romanian news media websites where RomaniaTV or Antena3 are examples)            |         ✔️         |        〰️       |
 | Blocks malware                |         ✔️         |        〰️       |
 | Blocks coin miners            |         ✔️         |        ❌        |
 | Blocks +18                    |         ✔️         |        ❌        |
