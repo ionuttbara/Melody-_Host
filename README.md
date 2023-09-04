@@ -1,4 +1,6 @@
-# Melody-_Host
+# **This project is depreciated and it moved to the Script Project!** **Link for updated file** **https://github.com/ionuttbara/melody_windows/blob/main/ublockfilter.txt**
+
+Melody-_Host
 Host for uBlock Origin Extension
 <h1 align="center">
   <br>
